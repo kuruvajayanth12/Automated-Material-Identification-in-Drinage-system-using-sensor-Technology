@@ -1,0 +1,15 @@
+Software Requirements
+Programming Environment:
+C++ (for logic and testing).
+IoT Platforms:
+Dashboard/GUI Tools: MIT App Inventor / Node-RED / Web App for visualization.
+Simulation Tools: Proteus, Tinker cad, or MATLAB (optional, for system simulation).
+
+
+Hardware Requirements
+Microcontroller: ESP32 (for data processing).
+Inductive/Metal detector sensor – for metal identification.
+IoT Connectivity Modules: Wi-Fi (ESP32) for data transmission.
+Power Supply: Rechargeable battery / DC adapter with waterproof casing.
+Prototype Model: Simulated drainage pipeline with controlled waste insertion.
+Supporting Components: Jumper wires,waterproof casing, LED indicators.
